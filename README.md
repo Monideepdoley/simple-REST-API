@@ -1,1 +1,1 @@
-# simple-REST-API
+# simple-REST-API This project implements a simple REST API endpoint in PHP that fetches data from a MySQL database and returns it as JSON using `json_encode()`. The API sets the proper `Content-Type: application/json` header, allowing the data to be tested easily in a browser or API tools like Postman.
